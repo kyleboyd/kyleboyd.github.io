@@ -1,4 +1,4 @@
-<--
+<!---
 ## Foundation IxD: Turning Ideas from Paper to Apps
 
 ---
@@ -55,7 +55,8 @@ Once you complete that then recreate your app icon from your travel app digitall
 [Create an Eye-Catching Water Droplet Icon With Sketch 3](https://webdesign.tutsplus.com/tutorials/create-an-eye-catching-water-droplet-icon-with-sketch-3--cms-22595)
 
 ---
-<!--
+-->
+
 #### Week 02 - Wireframe Championships Part 1 High Fidelity App Mockups
 Week beginning __13 March, 2017__
 
