@@ -55,19 +55,21 @@ Once you complete that then recreate your app icon from your travel app digitall
 [Create an Eye-Catching Water Droplet Icon With Sketch 3](https://webdesign.tutsplus.com/tutorials/create-an-eye-catching-water-droplet-icon-with-sketch-3--cms-22595)
 
 ---
-<!---
+
 
 #### Week 02 - Wireframe Championships Part 1 High Fidelity App Mockups
 Week beginning __13 March, 2017__
 
-This week we want you to begin to design your 6 up wireframes in Sketch.  Strat to draw out the different screens that make up your app.  You may need to desig more than the 6 you have - this is up to you. 
+This week we want you to begin to design your 6 up wireframes in Sketch.  Strat to draw out the different screens that make up your app.  You may need to design more than the 6 you have - this is up to you. 
+
+By the end of the week you should have at least three completed.
 
 ##### URLS
 - [How To Wireframe An iPhone App In Sketch](http://blog.mengto.com/how-to-wireframe-an-iphone-app-in-sketch/)
 - [The Savvy Sketch iOS Wireframe Kit - Savvy Apps](https://savvyapps.com/blog/savvy-sketch-ios-wireframe-kit)
 
 ---
-
+<!---
 #### Week 03 - Wireframe Championships Part 2 High Fidelity App Mockups
 Week beginning __20 March, 2017__
 
