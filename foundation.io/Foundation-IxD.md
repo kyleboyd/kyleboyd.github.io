@@ -69,7 +69,7 @@ By the end of the week you should have at least three completed.
 - [The Savvy Sketch iOS Wireframe Kit - Savvy Apps](https://savvyapps.com/blog/savvy-sketch-ios-wireframe-kit)
 
 ---
-<!---
+
 #### Week 03 - Wireframe Championships Part 2 High Fidelity App Mockups
 Week beginning __20 March, 2017__
 
@@ -80,7 +80,7 @@ This week is all about finishing your apps so they are fully designed.  You may 
 
 
 ---
-
+<!---
 #### Week 04 - Its Alive! Create demo animations in Keynote
 Week beginning __27 March, 2017__
 
