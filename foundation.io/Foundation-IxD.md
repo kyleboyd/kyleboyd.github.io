@@ -80,7 +80,7 @@ This week is all about finishing your apps so they are fully designed.  You may 
 
 
 ---
-<!---
+
 #### Week 04 - Its Alive! Create demo animations in Keynote
 Week beginning __27 March, 2017__
 
@@ -92,7 +92,7 @@ This week we will take your finished app UIs from sketch and put these into keyn
 - [Animating your UI designs in Keynote in 7 simple steps - InVision Blog](http://blog.invisionapp.com/animating-your-ui-designs-in-keynote/)
 
 ---
-
+<!---
 #### Week 05 - How we build the web: One Day HTML Workshop
 Week beginning __13 April, 2017__
 
