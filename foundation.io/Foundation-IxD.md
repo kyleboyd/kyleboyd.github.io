@@ -103,6 +103,8 @@ Week beginning __13 April, 2017__
 
 Today we will buld a one page website that will act as a showcase for you travel app.  Dont panic we are just going to cover the **very** basics of HTML and CSS.  Then we will be able to change the typeface, color and images of everybodys page so its unique to you.
 
+[Download Site Example - You will be using this to build your app website](https://www.dropbox.com/s/d84bu5ls6a380xf/Foundation%20Site.zip?dl=0)
+
 #### URLS
 - [HTML and CSS Web Standards Solutions: A Web Standardistas' Approach by Nicklas Persson (2008-12-17): Amazon.co.uk: Books](https://www.amazon.co.uk/HTML-CSS-Standards-Solutions-Standardistas/dp/B019NE9KWW)
 - [HTML & CSS: Design and Build Web Sites: Amazon.co.uk: Jon Duckett: 8601200464207: Books](https://www.amazon.co.uk/d/Books/HTML-CSS-Design-Build-Sites/1118008189/ref=sr_1_3?s=books&ie=UTF8&qid=1488296253&sr=1-3&keywords=john+duckett)
