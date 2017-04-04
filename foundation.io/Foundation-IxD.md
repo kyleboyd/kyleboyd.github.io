@@ -6,10 +6,15 @@
 ### Welcome on the next journey of the Foundation IxD Experience.  
 
 
-Want to build the next Instagram or Twitter? Interaction Design helps to create the next generation of apps, websites and digital experiences.Interaction design is all around us: it’s in the digital tools we use everyday; it’s on the web, it’s off the web; it’s at the tips of our fingers, it’s in our pockets; in short, it’s everywhere. Interaction design is about shaping digital things for people’s use.The emergence of devices like the iPhone and iPad have – in a very short space of time – revolutionised how we interact with and consume content. Tools like Facebook, Twitter and Instagram are changing our behavior. We browse web sites whilst watching television, or standing in a bus queue. Interaction designers shape these experiences.  In the last few years the need for a new kind of designer has emerged, a designer with the skills and thinking required to design for these new platforms, and for platforms that have yet to be conceived.
+Want to build the next Instagram or Twitter? Interaction Design helps to create the next generation of apps, websites and digital experiences.
+
+Interaction design is all around us: it’s in the digital tools we use everyday; it’s on the web, it’s off the web; it’s at the tips of our fingers, it’s in our pockets; in short, it’s everywhere. Interaction design is about shaping digital things for people’s use.
+
+The emergence of devices like the iPhone and iPad have – in a very short space of time – revolutionised how we interact with and consume content. Tools like Facebook, Twitter and Instagram are changing our behavior. We browse web sites whilst watching television, or standing in a bus queue. Interaction designers shape these experiences.  In the last few years the need for a new kind of designer has emerged, a designer with the skills and thinking required to design for these new platforms, and for platforms that have yet to be conceived.
 
 ---
-This module in interaction design is an opportunity to get hands on with interaction design.  We will discover how to create icons, create high fidelity app mockups in sketch, create a HTML page and showcase our work in a 30 second video show reel!  
+
+This module in interaction design is an opportunity to get hands on with interaction design.  We will discover how to create icons, create high fidelity app mockups in sketch, create a HTML page and showcase our work in a 30 second video show reel!  
 
 —[Dr. Kyle Boyd](https://twitter.com/kylbyd)
 
@@ -92,7 +97,7 @@ This week we will take your finished app UIs from sketch and put these into keyn
 - [Animating your UI designs in Keynote in 7 simple steps - InVision Blog](http://blog.invisionapp.com/animating-your-ui-designs-in-keynote/)
 
 ---
-<!---
+
 #### Week 05 - How we build the web: One Day HTML Workshop
 Week beginning __13 April, 2017__
 
@@ -103,7 +108,7 @@ Today we will buld a one page website that will act as a showcase for you travel
 - [HTML & CSS: Design and Build Web Sites: Amazon.co.uk: Jon Duckett: 8601200464207: Books](https://www.amazon.co.uk/d/Books/HTML-CSS-Design-Build-Sites/1118008189/ref=sr_1_3?s=books&ie=UTF8&qid=1488296253&sr=1-3&keywords=john+duckett)
 
 ---
-
+<!---
 #### Week 06 - Live Camera Action: 30 Second Video Showcase
 Week beginning __13 April, 2017__
 
